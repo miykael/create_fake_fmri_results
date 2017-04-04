@@ -1,0 +1,5 @@
+matplotlib
+nibabel
+nilearn
+numpy
+scipy
