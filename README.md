@@ -21,7 +21,7 @@ After running the notebook you will get figures, like the ones you see below, as
 ### Orthogonal view at a specific location
 <img src="pictures/ortho.png">
 
-### Atlas informatio
+### Atlas information
 ```
 Cluster 01
 ==========
