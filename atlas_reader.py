@@ -61,7 +61,7 @@ def readAtlas(atlastype, coordinate, probThresh=5):
 
 def writeOutputToScreen(atlasinfo, coord):
     """Writes output to the sceen"""
-    print "Segmentation information at {0}:".format(coord)
+    print "Peak Information at {0}:".format(coord)
 
     for ainfo in atlasinfo:
         for s in ainfo[1]:
