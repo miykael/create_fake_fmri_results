@@ -61,12 +61,12 @@ def readAtlas(atlastype, coordinate, probThresh=5):
 
 def writeOutputToScreen(atlasinfo, coord):
     """Writes output to the sceen"""
-    print "Peak Information at {0}:".format(coord)
+    print("Peak Information at {0}:".format(coord))
 
     for ainfo in atlasinfo:
         for s in ainfo[1]:
-            print "{0:<30}{1:>4}% {2}".format(ainfo[0], s[0], s[1])
-    print "\n"
+            print("{0:<30}{1:>4}% {2}".format(ainfo[0], s[0], s[1]))
+    print("\n")
 
 
 def getAtlasinfo(coord, atlastype='all', probThresh=5, writeToScreen=True):
