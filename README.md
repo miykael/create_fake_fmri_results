@@ -8,7 +8,7 @@ You can run the notebook directly on [mybinder.org](mybinder.org) by clicking on
 
 # Results
 
-After running the notebook you will get figures, such as:
+After running the notebook you will get figures, like the ones you see below, as well as peak information according to two probability atlases.
 
 ### Glass brain view
 
@@ -20,3 +20,18 @@ After running the notebook you will get figures, such as:
 
 ### Orthogonal view at a specific location
 <img src="pictures/ortho.png">
+
+### Atlas information
+```
+Cluster 01
+==========
+  Size = 12819 voxels
+  Peak Value: -0.84
+
+Peak Information at [23.0, -99.0, 7.0]:
+HarvardOxford                   63% Occipital_Pole
+Juelich                         49% GM_Visual_cortex_V1_BA17_R
+Juelich                         46% GM_Visual_cortex_V2_BA18_R
+Juelich                         29% WM_Optic_radiation_R
+Juelich                         19% GM_Visual_cortex_V3V_R
+```
