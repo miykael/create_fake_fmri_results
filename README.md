@@ -1,12 +1,10 @@
 # Create fake fMRI results
 
-[![CircleCi](https://img.shields.io/circleci/project/miykael/create_fake_fmri_results/master.svg?maxAge=2592000)](https://circleci.com/gh/miykael/create_fake_fmri_results/tree/master)
 [![GitHub issues](https://img.shields.io/github/issues/miykael/create_fake_fmri_results.svg)](https://github.com/miykael/create_fake_fmri_results/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/miykael/create_fake_fmri_results.svg)](https://github.com/miykael/create_fake_fmri_results/pulls/)
 [![GitHub contributors](https://img.shields.io/github/contributors/miykael/create_fake_fmri_results.svg)](https://GitHub.com/miykael/create_fake_fmri_results/graphs/contributors/)
 [![GitHub Commits](https://github-basic-badges.herokuapp.com/commits/miykael/create_fake_fmri_results.svg)](https://github.com/miykael/create_fake_fmri_results/commits/master)
 [![GitHub size](https://github-size-badge.herokuapp.com/miykael/create_fake_fmri_results.svg)](https://github.com/miykael/create_fake_fmri_results/archive/master.zip)
-[![Docker Hub](https://img.shields.io/docker/pulls/miykael/create_fake_fmri_results.svg?maxAge=2592000)](https://hub.docker.com/r/miykael/create_fake_fmri_results/)
 [![GitHub HitCount](http://hits.dwyl.io/miykael/create_fake_fmri_results.svg)](http://hits.dwyl.io/miykael/create_fake_fmri_results)
 
 
